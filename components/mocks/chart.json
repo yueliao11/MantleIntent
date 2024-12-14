@@ -1,0 +1,42 @@
+[
+    {
+        "name": "BTC",
+        "value": 1.25
+    },
+    {
+        "name": "ETH",
+        "value": 0.75
+    },
+    {
+        "name": "ADA",
+        "value": 3200.00
+    },
+    {
+        "name": "XRP",
+        "value": 5000.00
+    },
+    {
+        "name": "LTC",
+        "value": 150.50
+    },
+    {
+        "name": "BNB",
+        "value": 42.34
+    },
+    {
+        "name": "SOL",
+        "value": 1200.00
+    },
+    {
+        "name": "DOT",
+        "value": 400.00
+    },
+    {
+        "name": "DOGE",
+        "value": 100000.00
+    },
+    {
+        "name": "MATIC",
+        "value": 5000.00
+    }
+]

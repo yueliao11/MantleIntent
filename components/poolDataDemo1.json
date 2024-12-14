@@ -1,0 +1,188 @@
+[
+    {
+        "protocol": {
+            "name": "mitosis",
+            "image": "https://icons.llamao.fi/icons/protocols/mitosis?w=48&h=48",
+            "url": "https://mitosis.org/"
+        },
+        "pool": [
+            {
+                "tokenName": "USDC",
+                "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "tokenImg": "https://app.zerolend.xyz/icons/tokens/usdc.svg"
+            }
+        ],
+        "liquidity": "6,000,000",
+        "volume": "500,000",
+        "fee": "0.25%",
+        "miningReward": "4,000",
+        "apr": "12%"
+    },
+    {
+        "protocol": {
+            "name": "Zerolend",
+            "image": "https://icons.llamao.fi/icons/protocols/zerolend?w=48&h=48",
+            "url": "https://app.zerolend.xyz/"
+        },
+        "pool": [
+            {
+                "tokenName": "BUSD",
+                "tokenAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                "tokenImg": "https://cryptologos.cc/logos/binance-usd-busd-logo.png"
+            }
+        ],
+        "liquidity": "15,000,000",
+        "volume": "1,200,000",
+        "fee": "0.3%",
+        "miningReward": "10,000",
+        "apr": "18%"
+    },
+    {
+        "protocol": {
+            "name": "syncswap",
+            "image": "https://icons.llamao.fi/icons/protocols/syncswap?w=48&h=48",
+            "url": "https://kelpdao.xyz/defi/?chain=59144"
+        },
+        "pool": [
+            {
+                "tokenName": "BUSD",
+                "tokenAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                "tokenImg": "https://app.zerolend.xyz/icons/tokens/grai.svg"
+            },
+            {
+                "tokenName": "Binance Coin",
+                "tokenAddress": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+                "tokenImg": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png"
+            }
+        ],
+        "liquidity": "6,000,000",
+        "volume": "500,000",
+        "fee": "0.2%",
+        "miningReward": "4,000",
+        "apr": "10%"
+    },
+    {
+        "protocol": {
+            "name": "stargate-finance",
+            "image": "https://icons.llamao.fi/icons/protocols/stargate-finance?w=48&h=48",
+            "url": "https://kelpdao.xyz/defi/?chain=59144"
+        },
+        "pool": [
+            {
+                "tokenName": "DAI",
+                "tokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                "tokenImg": "https://app.zerolend.xyz/icons/tokens/dai.svg"
+            }
+        ],
+        "liquidity": "7,500,000",
+        "volume": "600,000",
+        "fee": "0.2%",
+        "miningReward": "5,000",
+        "apr": "13%"
+    },
+    {
+        "protocol": {
+            "name": "LayerBank",
+            "image": "https://icons.llamao.fi/icons/protocols/layerbank?w=48&h=48",
+            "url": "https://linea.layerbank.finance/bank"
+        },
+        "pool": [
+            {
+                "tokenName": "Bitcoin",
+                "tokenAddress": "0x0000000000000000000000000000000000000000",
+                "tokenImg": "https://firebasestorage.googleapis.com/v0/b/kelpdao/o/defi%2FagETH.png?alt=media"
+            },
+            {
+                "tokenName": "Binance Coin",
+                "tokenAddress": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+                "tokenImg": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png"
+            }
+        ],
+        "liquidity": "6,500,000",
+        "volume": "550,000",
+        "fee": "0.2%",
+        "miningReward": "4,500",
+        "apr": "11%"
+    },
+    {
+        "protocol": {
+            "name": "Kelp",
+            "image": "https://icons.llamao.fi/icons/protocols/kelp-rseth?w=48&h=48",
+            "url": "https://kelpdao.xyz/defi/?chain=59144"
+        },
+        "pool": [
+            {
+                "tokenName": "DAI",
+                "tokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                "tokenImg": "https://firebasestorage.googleapis.com/v0/b/kelpdao/o/defi%2Frseth.png?alt=media"
+            }
+        ],
+        "liquidity": "12,000,000",
+        "volume": "1,000,000",
+        "fee": "0.25%",
+        "miningReward": "8,000",
+        "apr": "15%"
+    },
+    {
+        "protocol": {
+            "name": "Renzo",
+            "image": "https://icons.llamao.fi/icons/protocols/renzo?w=48&h=48",
+            "url": "https://kelpdao.xyz/defi/?chain=59144"
+        },
+        "pool": [
+            {
+                "tokenName": "USDC",
+                "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "tokenImg": "https://app.zerolend.xyz/icons/tokens/usdc.svg"
+            }
+        ],
+        "liquidity": "9,000,000",
+        "volume": "800,000",
+        "fee": "0.2%",
+        "miningReward": "6,000",
+        "apr": "14%"
+    },
+    {
+        "protocol": {
+            "name": "Mendi",
+            "image": "https://icons.llamao.fi/icons/protocols/mendi-finance?w=48&h=48",
+            "url": "https://mendi.finance/"
+        },
+        "pool": [
+            {
+                "tokenName": "USDe",
+                "tokenAddress": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+                "tokenImg": "https://app.zerolend.xyz/icons/tokens/usde.svg"
+            },
+            {
+                "tokenName": "BUSD",
+                "tokenAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                "tokenImg": "https://cryptologos.cc/logos/binance-usd-busd-logo.png"
+            }
+        ],
+        "liquidity": "6,000,000",
+        "volume": "500,000",
+        "fee": "0.25%",
+        "miningReward": "4,000",
+        "apr": "12%"
+    },
+    {
+        "protocol": {
+            "name": "lynex",
+            "image": "https://icons.llamao.fi/icons/protocols/lynex?w=48&h=48",
+            "url": "https://kelpdao.xyz/defi/?chain=59144"
+        },
+        "pool": [
+            {
+                "tokenName": "DAI",
+                "tokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                "tokenImg": "https://app.zerolend.xyz/icons/tokens/dai.svg"
+            }
+        ],
+        "liquidity": "5,500,000",
+        "volume": "450,000",
+        "fee": "0.2%",
+        "miningReward": "3,500",
+        "apr": "9%"
+    }
+]

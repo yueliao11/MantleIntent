@@ -1,0 +1,1 @@
+export type AdvisorType = "conservative" | "growth" | "quantitative" | "meme"; 

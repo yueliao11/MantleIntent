@@ -1,0 +1,212 @@
+[
+    {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "balance": "10",
+        "price": 48756.23,
+        "value": 0,
+        "thumbnail": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+        "priceHistory": [
+            {
+                "time": "2024-11-20",
+                "value": 47812.56
+            },
+            {
+                "time": "2024-11-21",
+                "value": 48530.14
+            },
+            {
+                "time": "2024-11-22",
+                "value": 48492.98
+            },
+            {
+                "time": "2024-11-23",
+                "value": 49112.35
+            },
+            {
+                "time": "2024-11-24",
+                "value": 48640.71
+            },
+            {
+                "time": "2024-11-25",
+                "value": 48972.87
+            },
+            {
+                "time": "2024-11-26",
+                "value": 48023.56
+            },
+            {
+                "time": "2024-11-27",
+                "value": 48756.23
+            }
+        ]
+    },
+    {
+        "symbol": "ETH",
+        "name": "Ether",
+        "balance": "20",
+        "price": 3410.35,
+        "value": 0,
+        "thumbnail": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+        "priceHistory": [
+            {
+                "time": "2024-11-20",
+                "value": 3072.39
+            },
+            {
+                "time": "2024-11-21",
+                "value": 3359.82
+            },
+            {
+                "time": "2024-11-22",
+                "value": 3331.89
+            },
+            {
+                "time": "2024-11-23",
+                "value": 3397.31
+            },
+            {
+                "time": "2024-11-24",
+                "value": 3364.81
+            },
+            {
+                "time": "2024-11-25",
+                "value": 3414.86
+            },
+            {
+                "time": "2024-11-26",
+                "value": 3323.46
+            },
+            {
+                "time": "2024-11-27",
+                "value": 3409.13
+            }
+        ]
+    },
+    {
+        "symbol": "ADA",
+        "name": "Cardano",
+        "balance": "100",
+        "price": 1.52,
+        "value": 0,
+        "thumbnail": "https://cryptologos.cc/logos/cardano-ada-logo.png",
+        "priceHistory": [
+            {
+                "time": "2024-11-20",
+                "value": 1.45
+            },
+            {
+                "time": "2024-11-21",
+                "value": 1.48
+            },
+            {
+                "time": "2024-11-22",
+                "value": 1.47
+            },
+            {
+                "time": "2024-11-23",
+                "value": 1.50
+            },
+            {
+                "time": "2024-11-24",
+                "value": 1.51
+            },
+            {
+                "time": "2024-11-25",
+                "value": 1.53
+            },
+            {
+                "time": "2024-11-26",
+                "value": 1.52
+            },
+            {
+                "time": "2024-11-27",
+                "value": 1.52
+            }
+        ]
+    },
+    {
+        "symbol": "XRP",
+        "name": "Ripple",
+        "balance": "20",
+        "price": 0.74,
+        "value": 2,
+        "thumbnail": "https://cryptologos.cc/logos/cardano-ada-logo.png",
+        "priceHistory": [
+            {
+                "time": "2024-11-20",
+                "value": 0.71
+            },
+            {
+                "time": "2024-11-21",
+                "value": 0.73
+            },
+            {
+                "time": "2024-11-22",
+                "value": 0.72
+            },
+            {
+                "time": "2024-11-23",
+                "value": 0.75
+            },
+            {
+                "time": "2024-11-24",
+                "value": 0.74
+            },
+            {
+                "time": "2024-11-25",
+                "value": 0.76
+            },
+            {
+                "time": "2024-11-26",
+                "value": 0.74
+            },
+            {
+                "time": "2024-11-27",
+                "value": 0.74
+            }
+        ]
+    },
+    {
+        "symbol": "LTC",
+        "name": "Litecoin",
+        "balance": "5",
+        "price": 185.47,
+        "value": 1,
+        "thumbnail": "https://cryptologos.cc/logos/litecoin-ltc-logo.png",
+        "priceHistory": [
+            {
+                "time": "2024-11-20",
+                "value": 180.25
+            },
+            {
+                "time": "2024-11-21",
+                "value": 182.30
+            },
+            {
+                "time": "2024-11-22",
+                "value": 184.50
+            },
+            {
+                "time": "2024-11-23",
+                "value": 185.10
+            },
+            {
+                "time": "2024-11-24",
+                "value": 183.75
+            },
+            {
+                "time": "2024-11-25",
+                "value": 186.25
+            },
+            {
+                "time": "2024-11-26",
+                "value": 185.00
+            },
+            {
+                "time": "2024-11-27",
+                "value": 185.47
+            }
+        ]
+    }
+]
